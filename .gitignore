@@ -1,0 +1,4 @@
+.DS_Store
+api/app.pyc
+api/__pycache__/app.cpython-311.pyc
+api/model/wastage_food_model.pkl
